@@ -36,6 +36,10 @@ h2 {
 	margin-bottom: 10px;
 }
 
+p {
+	margin-bottom: 15px;
+}
+
 .content {
 	margin: 0 15px;
 }
@@ -71,6 +75,10 @@ h2 {
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
+}
+
+.strong {
+	font-weight: 700;
 }
 
 .result {
