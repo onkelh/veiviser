@@ -15,6 +15,11 @@ h1 {
 	margin-bottom: 30px;
 }
 
+h2 {
+	font-size: 21px;
+	font-weight: 700;
+}
+
 .content {
 	margin: 0 15px;
 }
@@ -22,4 +27,31 @@ h1 {
 .navigation {
 	background-color: #ddd;
 	padding: 20px 40px;
+}
+
+.btn {
+	border-radius: 7px;
+	font-weight: bold;
+	color: #fff;
+	background-color: #0173b6;
+	border-color: #01639d;
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 15px;
+	line-height: 1.42857;
+	border-radius: 4px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
